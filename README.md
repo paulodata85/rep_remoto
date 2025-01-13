@@ -1,5 +1,7 @@
-# rep_remoto
+# Clase de estadística en R
 
-Este es el README.md de mi repositorio remoto
+Este repositorio contiene los ejercicios de la clase de Dra. Yosune que quiere su libro colaborativo
 
-Esta es una nueva versión,  recuperado XD
+## Uso de los programas
+
+Los programas estan en la carpeta SRC
