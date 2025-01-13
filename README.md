@@ -6,6 +6,6 @@ Este repositorio contiene los ejercicios de la clase de Dra. Yosune que quiere s
 
 Los programas estan en la carpeta SRC
 
-![](doc/82321916_164872668274753_7379538621017096192_n.jpg)
+![](DOC/82321916_164872668274753_7379538621017096192_n.jpg)
 
 Imagen de mi bici
